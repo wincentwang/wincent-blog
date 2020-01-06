@@ -1,7 +1,9 @@
 ---
 title: UNIX进程通信之消息通信
-date: 2017-04-23 00:42:54
-tags: UNIX
+date: 2018-02-28 15:07:11
+tags: Unix
+categories: Unix
+description: UNIX进程通信之消息通信。
 ---
 ## Code:
 

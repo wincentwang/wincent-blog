@@ -1,7 +1,9 @@
 ---
 title: UNIX进程通信之远程进程间通信
-date: 2017-04-23 17:23:43
-tags: UNIX
+date: 2018-02-28 15:07:11
+tags: Unix
+categories: Unix
+description: UNIX进程通信之远程进程间通信。
 ---
 
 ## Code:

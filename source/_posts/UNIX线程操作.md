@@ -1,7 +1,9 @@
 ---
 title: UNIX线程操作
-date: 2017-04-23 00:43:34
-tags: UNIX
+date: 2018-02-28 15:07:11
+tags: Unix
+categories: Unix
+description: UNIX线程操作。
 ---
 
 ## Code:

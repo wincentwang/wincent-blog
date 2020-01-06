@@ -1,50 +1,44 @@
 ---
-title: The Road Not Taken
+title: Hello World
+date: 2018-02-28 15:07:11
+categories: Blog
+tags: 
+  - Testing
+  - Another Tag
+description: 生命在于折腾，又把博客折腾到Hexo了。给Hexo点赞。
 ---
+Welcome to [Hexo]! This is your very first post. Check [documentation]for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting] or you can ask me on [GitHub]
 
+## Quick Start
 
-The Road Not Taken
+### Create a new post
 
-Robert Frost
+``` bash
+$ hexo new "My New Post"
+```
 
-Two roads diverged in a yellow wood,
+More info: [Writing]
 
-And sorry I could not travel both
+### Run server
 
-And be one traveler, long I stood
+``` bash
+$ hexo server
+```
 
-And looked down one as far as I could
+More info: [Server]
 
-To where it bent in the undergrowth;
+### Generate static files
 
-Then took the other, as just as fair,
+``` bash
+$ hexo generate
+```
 
-And having perhaps the better claim,
+More info: [Generating]
 
-Because it was grassy and wanted wear;
+### Deploy to remote sites
 
-Though as for that the passing there
+``` bash
+$ hexo deploy
+```
 
-Had worn them really about the same,
-
-And both that morning equally lay
-
-In leaves no step had trodden black.
-
-Oh, I kept the first for another day!
-
-Yet knowing how way leads on to way,
-
-I doubted if I should ever come back.
-
-I shall be telling this with a sigh
-
-Somewhere ages and ages hence:
-
-Two roads diverged in a wood,and I—
-
-I took the one less traveled by,
-
-And that has made all the difference.
-
-
+More info: [Deployment]
