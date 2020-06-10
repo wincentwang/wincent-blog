@@ -7,38 +7,47 @@ toc: false
 date: 2020-01-08 16:44:35
 ---
 
-## Hexo
+### Hexo
 
-### 1.1 申请GitHub账户
+##### 1.1 Apply Github Account
 
 [Git](https://github.com)
 
+* Create a repositories named your_username.github.io
+* set your github like page
+* download a theme which you like or you can custome by yourself 
 
-### 1.2 安装Nodejs
+
+##### 1.2 Install Nodejs & Npm
 
 [Nodejs](http://nodejs.cn/)
 
-### 1.3 安装Hexo
+##### 1.3 Install Hexo
 ``` nodejs
-//安装hexo
 npm install -g hexo
-
-//初始化博客
 hexo init 
-
-//发布到github
 npm install hexo-deployer-git --save
 ```
 
-### 1.4 申请域名绑定CNAME
+#### 1.4 Apply Domain with CNAME
 
+* [Tencent Cloud](https://cloud.tencent.com/)
 
-## Hexo Client
+* [Ali Cloud](https://www.aliyun.com/)
 
-### 1.1 安装hexo client
+### Hexo Client
 
 [Hexo Client Github](https://github.com/gaoyoubo/hexo-client)
 
-### 1.2 初始化目录
+```
+git clone https://github.com/gaoyoubo/hexo-client/releases
+# install dependencies
+npm install
+# dev
+npm run electron:serve
+# build electron application for production
+npm run electron:build
+```
+
 
 
