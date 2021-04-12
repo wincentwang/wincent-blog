@@ -5,7 +5,7 @@ date: 2021-04-11 15:52:56
 
 ... Program Developer 
 
-I write blog article i learned in my work and study about technology,program manage and my life soso. if you have confuse,you can contact me with below email. i wil reply as soon as possible.
+I write blog article i learned in my work and study about technology,program manage and my life soso. if you have confuse,you can contact me with below email. i will reply as soon as possible.
 
 |No|Name|Description|
 |:--|:--|:--|
