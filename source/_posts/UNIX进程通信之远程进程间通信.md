@@ -1,6 +1,6 @@
 ---
 title: UNIX进程通信之远程进程间通信
-date: 2018-02-28 15:07:11
+date: 2020-02-28 15:07:11
 tags: Unix
 categories: Unix
 description: UNIX进程通信之远程进程间通信。

@@ -1,6 +1,6 @@
 ---
 title: UNIX进程通信之有名管道与无名管道
-date: 2018-02-28 15:07:11
+date: 2020-02-28 15:07:11
 tags: Unix
 categories: Unix
 description: UNIX进程通信之有名管道与无名管道。

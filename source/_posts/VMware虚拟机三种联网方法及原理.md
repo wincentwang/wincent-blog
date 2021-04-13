@@ -1,6 +1,6 @@
 ---
 title: VMware虚拟机三种联网方法及原理
-date: 2018-02-28 15:07:11
+date: 2020-18-02-28 15:07:11
 tags: VM
 categories: VM
 description: VMware虚拟机三种联网方法及原理。
