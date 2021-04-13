@@ -15,11 +15,10 @@ I write blog article i learned in my work and study about technology,program man
 |4|Kafka||
 |5|Kubernates||
 |6|MiniProgram||
+|7|Linux||
+|8|Algorithm||
 
 
-
-
-
-
+Github: https://github.com/wincentwang
 Email1: wincentwang@163.com (recommended)
 Emial2: wincentwang@gmail.com
