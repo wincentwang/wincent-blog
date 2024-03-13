@@ -118,7 +118,7 @@ strong {
 blockquote {
 	border-left: 0.4em solid #eee;
 	padding-left: 1.2em;
-	font-size: 1.3em;
+	font-size: 0.9em;
 }
 hr{
  	border: 0;
@@ -291,7 +291,33 @@ footer a:hover {
 		margin-left: 2em; 
 	}
 }
-
+table,td,th{
+	width: 1500px;
+	border-collapse: collapse;
+	border: 1px solid gray;
+	padding: 5px;
+}
+table th:first-of-type {
+    width: 5%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 15%;
+}
+table th:nth-of-type(5) {
+    width: 10%;
+}
+table th:nth-of-type(6) {
+    width: 10%;
+}
+table th:nth-of-type(7) {
+    width: 10%;
+}
 
 .article-entry pre,
 .article-entry .highlight {
@@ -333,6 +359,7 @@ footer a:hover {
 .article-entry .highlight table {
   margin: 0;
   width: auto;
+  border: 1px;
 }
 .article-entry .highlight td {
   border: none;

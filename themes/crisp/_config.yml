@@ -10,3 +10,8 @@ github: https://github.com/wincentwang
 facebook: 
 twitter:
 linkedin:
+math:
+    per_page: true
+    mathjax:
+        enable: true
+        mhchem: true

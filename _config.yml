@@ -23,6 +23,17 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+
+mathjax:
+  tags: none # or 'ams' or 'all'
+  single_dollars: true # enable single dollar signs as in-line math delimiters
+  cjk_width: 0.9 # relative CJK char width
+  normal_width: 0.6 # relative normal (monospace) width
+  append_css: true # add CSS to pages rendered by MathJax
+  every_page: false # if true, every page will be rendered by MathJax regardless the `mathjax` setting in Front-matter
+
+
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -60,6 +71,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: crisp
+
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
