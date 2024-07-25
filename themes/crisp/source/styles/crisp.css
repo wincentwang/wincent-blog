@@ -292,7 +292,6 @@ footer a:hover {
 	}
 }
 table,td,th{
-	width: 1500px;
 	border-collapse: collapse;
 	border: 1px solid gray;
 	padding: 5px;
