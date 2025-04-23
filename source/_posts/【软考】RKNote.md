@@ -344,21 +344,3 @@ $$
 	复杂
 	模糊
 	应对
-
-
-git config --global user.name "00729458"
-git config --global user.name "00729458@yto.net.cn"
-
-
-
-【圆通速递】星辰监控，您的gitlab账号密码已更新, 仓库地址是：https: // git.yto.net.cn, 新密码是：0iMQfWL74y0u@PN8。退订请回复0000
-
-
-
-git remote set-url origin https://git.yto.net.cn/yto-g/BaseService/WaybillCenter/gatheringshipping.git
-
-
-feature/mongolia-20240708
-
-
-https://wpfx.org/go/?url=https://pan.baidu.com/s/1QBNa00AmyMIF8zyqzlZwQQ?pwd=yyds
